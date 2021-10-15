@@ -1,0 +1,3 @@
+Le langage Java reprend en grande partie la syntaxe du langage C++. 
+Néanmoins, Java a été épuré des concepts les plus subtils du C++ et à la fois les plus déroutants, 
+tels que les pointeurs et références, ou l’héritage multiple contourné par l’implémentation des interfaces.
